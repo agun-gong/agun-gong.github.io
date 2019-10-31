@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>阿滚来啦！</title>
+  <title>Gwen&#39;s Homepage</title>
   
-  
+  <subtitle>Peace all over the world</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://agun.xyz/"/>
