@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://agun.xyz/"/>
-  <updated>2019-10-31T09:18:29.376Z</updated>
+  <updated>2019-10-31T12:11:44.605Z</updated>
   <id>http://agun.xyz/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>建站成功</title>
+    <title>一步一步建立好自己的网站</title>
     <link href="http://agun.xyz/2019/10/30/Gwen/"/>
     <id>http://agun.xyz/2019/10/30/Gwen/</id>
     <published>2019-10-30T13:25:24.000Z</published>
-    <updated>2019-10-31T09:18:29.376Z</updated>
+    <updated>2019-10-31T12:11:44.605Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><h1 id="建站成功"><a href="#建站成功" class="headerlink" title="建站成功"></a>建站成功</h1><h2 id="实在是太开心了"><a href="#实在是太开心了" class="headerlink" title="实在是太开心了"></a>实在是太开心了</h2><blockquote><p>qq </p></blockquote><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><ol><li></li><li></li><li></li></ol><hr><hr><hr>]]></content>
+    <content type="html"><![CDATA[<h1 id="建站成功"><a href="#建站成功" class="headerlink" title="建站成功"></a>建站成功</h1><p>16年的时候就打算建一个属于自己的网站，一直拖延到现在。当时只知道建一个<br>个人网站需要的东西：</p><ol><li>域名<a id="more"></a></li><li>服务器</li><li>编程知识</li><li>一台电脑<br>这次实际操作踩了很多的坑，整理一下。</li></ol><hr>]]></content>
     
     <summary type="html">
     
