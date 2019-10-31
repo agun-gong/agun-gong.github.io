@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://agun.xyz/about/index.html</loc>
+    
+    <lastmod>2019-10-31T07:29:36.306Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://agun.xyz/tags/index.html</loc>
+    
+    <lastmod>2019-10-31T07:29:29.675Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://agun.xyz/categories/index.html</loc>
     
-    <lastmod>2019-10-30T17:49:49.590Z</lastmod>
+    <lastmod>2019-10-31T07:29:20.966Z</lastmod>
     
   </url>
   
