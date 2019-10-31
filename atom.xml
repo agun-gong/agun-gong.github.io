@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://agun.xyz/"/>
-  <updated>2019-10-31T18:05:41.567Z</updated>
+  <updated>2019-10-31T18:07:09.381Z</updated>
   <id>http://agun.xyz/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hexo + github + 阿里云域名搭建自己的网站</title>
+    <title>hexo+github+阿里云域名搭建自己的网站</title>
     <link href="http://agun.xyz/2019/10/30/Gwen/"/>
     <id>http://agun.xyz/2019/10/30/Gwen/</id>
     <published>2019-10-30T13:25:24.000Z</published>
-    <updated>2019-10-31T18:05:41.567Z</updated>
+    <updated>2019-10-31T18:07:09.381Z</updated>
     
     <content type="html"><![CDATA[<h1 id="对于小白来说简单实用的建站技巧"><a href="#对于小白来说简单实用的建站技巧" class="headerlink" title="对于小白来说简单实用的建站技巧"></a>对于小白来说简单实用的建站技巧</h1><a id="more"></a><ol start="2"><li>服务器<h2 id="建站之前"><a href="#建站之前" class="headerlink" title="建站之前"></a>建站之前</h2>16年的时候就打算建一个属于自己的网站，一直拖延到现在。当时只知道建好一个别人可以访问到的网站需要：</li><li>域名</li><li>服务器</li><li>一台电脑</li><li>一些编程知识</li></ol><p>这确实是搭建好一个网站需要的最基本的东西，更重要的是你要弄清楚用这个网站干什么，这样在做选择的时候就能考虑的更周到。</p><ul><li>是否要买域名？选择什么样的域名？国内还是国际？</li><li>买一个云虚拟主机？还是托管在Github或者码云上面？</li><li>直接开始建，还是先想好整个建站过程？</li><li>……</li></ul><p>因为我是想借由这个网站做学习笔记，分享想法以及发布个人作品，所以我是在阿里云买了一个简单好记的域名，利用Hexo搭建好我的个人博客的框架，推送到Github上面，再把Github和自己的域名绑定起来。等到网站成功建立，并且可以靠自己维护的很好，再去买一个虚拟云服务器。我是个拖延症很严重的人，所以选择了收集广大网友的建站经验，直接开始建！</p><h2 id="实际操作"><a href="#实际操作" class="headerlink" title="实际操作"></a>实际操作</h2><p>这次实际操作踩了很多的坑，也发现了很多很好的文章和视频，可以避坑，整理一下：</p><blockquote><p>关于 Github：<a href="https://www.bilibili.com/video/av62967996/?spm_id_from=trigger_reload" target="_blank" rel="noopener">https://www.bilibili.com/video/av62967996/?spm_id_from=trigger_reload</a></p></blockquote><blockquote><p>关于域名：唯一需要花钱的地方，需要绑定。</p></blockquote><blockquote><p>关于Hexo和主题：<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">https://hexo.io/zh-cn/</a></p></blockquote><blockquote><p>手把手教你（奶妈级别）：<a href="https://www.bilibili.com/video/av62400697?p=5" target="_blank" rel="noopener">https://www.bilibili.com/video/av62400697?p=5</a></p></blockquote><p>基本上看手把手教你这一个视频就可以很快的建好个人博客，其他的东西是帮助你理解、操作，可以让你走的更远的东西。</p><p>建站的过程中也遇到了很多问题，每次都只能搜索一下报错，看看人家是怎么解决的，唯一的办法就是坚持不放弃，基本都能找到原因和解决的办法。感谢互联网，感谢那些在网络上提供解决方案的人们！</p><h2 id="建好了，该发布文章啦"><a href="#建好了，该发布文章啦" class="headerlink" title="建好了，该发布文章啦"></a>建好了，该发布文章啦</h2><blockquote><p>Git 教程:<a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank" rel="noopener">https://www.liaoxuefeng.com/wiki/896043488029600</a></p></blockquote><h2 id="推荐"><a href="#推荐" class="headerlink" title="推荐"></a>推荐</h2><p>Bootsrap： <a href="http://kristopolous.github.io/BOOTSTRA.386/index.html" target="_blank" rel="noopener">http://kristopolous.github.io/BOOTSTRA.386/index.html</a></p><p>Hahack：<a href="https://www.hahack.com/" target="_blank" rel="noopener">https://www.hahack.com/</a></p><p>叶落阁：<a href="https://yelog.org/" target="_blank" rel="noopener">https://yelog.org/</a></p><p>一个好看的网站：<a href="http://icondrop.net/" target="_blank" rel="noopener">http://icondrop.net/</a></p><p>Lunhao Hu：<a href="https://www.hulunhao.com/" target="_blank" rel="noopener">https://www.hulunhao.com/</a></p>]]></content>
     
