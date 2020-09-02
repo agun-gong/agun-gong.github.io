@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://agun.xyz/2019/11/10/20191106/</loc>
-    <lastmod>2019-11-12</lastmod>
+    <loc>http://agun.xyz/2020/09/02/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%B0%8F%E7%A7%98%E5%AF%86/</loc>
+    <lastmod>2020-09-02</lastmod>
+  </url>  <url>
+    <loc>http://agun.xyz/2020/03/09/%E3%80%8A%E6%88%91%E7%9A%84%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E3%80%8B/</loc>
+    <lastmod>2020-09-02</lastmod>
   </url>  <url>
     <loc>http://agun.xyz/2019/10/30/Gwen/</loc>
-    <lastmod>2019-11-06</lastmod>
+    <lastmod>2020-03-09</lastmod>
+  </url>  <url>
+    <loc>http://agun.xyz/2019/11/10/20191106/</loc>
+    <lastmod>2019-11-12</lastmod>
   </url>
 </urlset>
